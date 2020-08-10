@@ -115,10 +115,7 @@ if doTrainingAndEval
 else
     'training set to false'
 end
-%% 
-% This example was verified on an Nvidia(TM) Titan X GPU with 12 GB of memory. 
-% Training the network took approximately 20 minutes. The training time varies 
-% depending on the hardware you use.
+
 %% 
 % As a quick check, run the detector on one test image. Make sure you resize 
 % the image to the same size as the training images. 
